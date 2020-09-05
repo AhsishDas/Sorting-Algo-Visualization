@@ -1,7 +1,10 @@
-# Sorting-Algo-Visualisation
-#### The GUi based sorting algorithm visualisation
 
-The common algorithms for the purpose are-
+# A GUI based  graphical visualisation of basic sorting algorithms
+
+#### It is a graphical way of visualizing the working of a sorting algorithm.
+#### Different colours is used to justify the process and speed scale for better visualization.
+
+The common algorithms used are-
 * Bubble sort
 * Insertion sort
 * Merge sort
