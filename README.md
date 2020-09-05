@@ -14,3 +14,5 @@ The common features are-
 1. Speed scale--used to adjust the processing speed
 1. Min-Max scale--used to set the minimum and maximum value of the array
 1. Data scale--used to set the data size
+
+#### After downloading the files run the sort_algo.py file.
